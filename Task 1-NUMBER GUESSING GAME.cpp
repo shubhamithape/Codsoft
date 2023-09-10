@@ -80,6 +80,6 @@ cout<<endl;
 }
 
 
-//Created  by Maryam Siddiqui
+//Created  by Shubham Ithape
 //For Internship Task Number Guessing game
 //For @softcode
